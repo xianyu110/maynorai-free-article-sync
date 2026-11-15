@@ -28,14 +28,18 @@
 
 三步开始用，支持 Chrome、Edge 等 Chromium 内核浏览器：
 
-1. 下载扩展安装包并解压。在 Chrome 打开 `chrome://extensions`（Edge 则是 `edge://extensions`），开启「开发人员模式」，选择「加载已解压的扩展程序」。
+1. 按下面三种方式之一获取插件并解压。在 Chrome 打开 `chrome://extensions`（Edge 则是 `edge://extensions`），开启「开发人员模式」，选择「加载已解压的扩展程序」。
 2. 在浏览器里正常登录微信公众号、知乎、CSDN、哔哩哔哩专栏等平台网页端。扩展会读取当前登录状态，不用再输入账号密码。
 3. 打开编辑器写好文章，点击「同步到草稿箱」，勾选目标平台并创建任务。文章会以草稿形式写入各平台，你检查排版后再手动发布。
 
 ![MaynorAI 文章同步安装教程：安装扩展、登录各平台、同步到草稿箱](https://upload.maynor1024.live/file/1794738659363_maynorai-promo-install.png)
 
-编辑器：https://editor.maynor1024.live
+获取插件有三种方式：
 
-扩展安装包：https://editor.maynor1024.live/MaynorAI-article-sync-extension.zip
+1. 官网下载：[https://product.maynor1024.live/](https://product.maynor1024.live/)
+2. 公众号后台回复「同步插件」
+3. GitHub 开源仓库：[https://github.com/xianyu110/editor-maynor1024](https://github.com/xianyu110/editor-maynor1024)
+
+写文章请打开编辑器：[https://editor.maynor1024.live](https://editor.maynor1024.live)
 
 如果你也是被额度或定价劝退的人，欢迎来用。
