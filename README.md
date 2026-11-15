@@ -42,8 +42,6 @@
 2. 公众号后台回复「同步插件」
 3. GitHub 开源仓库：[https://github.com/xianyu110/editor-maynor1024](https://github.com/xianyu110/editor-maynor1024)
 
-写文章请打开编辑器：[https://editor.maynor1024.live](https://editor.maynor1024.live)
-
 如果你也是被额度或定价劝退的人，欢迎来用。
 
 目前还是 0.1 版本，欢迎大家提 [issue](https://github.com/xianyu110/editor-maynor1024/issues)。
